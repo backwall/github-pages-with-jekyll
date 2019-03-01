@@ -1,13 +1,6 @@
 title: First Time Making Such Theme
 author: Orwell1984
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Just learning about _config.yml
 
-# social links
-twitter_username: no twitter
-github_username: backwall
-
-show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
